@@ -6,14 +6,14 @@
 I'm a Front-End Web Developer and some known with Back-End dedicated to simplifying web learning and empowering aspiring developers.
 
 <h1>Skills</h1>
-<hr style="width:50%;text-align:left;margin-left:0">
 HTML / CSS / TAILWIND CSS / JS / REACT JS / NEXT JS 
 <h1>Current Status</h1>
 <hr style="width:50%;text-align:left;margin-left:0">
 - 🌱 I’m currently learning NEXT JS 
 - 📫 How to reach me: EMAIL OR  PHONE 
 
-
+<h1>Social links</h1>
+<hr style="width:50%;text-align:left;margin-left:0">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Najmus73)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/najmus-shakib-879734b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NajmusShakib2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/najmus73//)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Najmus73)](https://github.com/ryo-ma/github-profile-trophy)
