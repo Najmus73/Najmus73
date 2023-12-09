@@ -6,9 +6,9 @@
 I'm a Front-End Web Developer and some known with Back-End dedicated to simplifying web learning and empowering aspiring developers.
 
 <h1>Skills</h1>
-HTML / CSS / TAILWIND CSS / JS / REACT JS / NEXT JS 
+<img src='https://www.svgrepo.com/show/303205/html-5-logo.svg' height='40'> / CSS / TAILWIND CSS / JS / REACT JS / NEXT JS 
 <h1>Current Status</h1>
-- 🌱 I’m currently learning NEXT JS 
+- 🌱 I’m currently learning NEXT JS <br/>
 - 📫 How to reach me: EMAIL OR  PHONE 
 
 <h1>Social links</h1>
