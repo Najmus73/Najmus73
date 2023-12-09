@@ -5,7 +5,7 @@
 
 I'm a Front-End Web Developer and some known with Back-End dedicated to simplifying web learning and empowering aspiring developers.
 
-Skills
+<h1>Skills</h1>
 <hr style="width:50%;text-align:left;margin-left:0">
 HTML / CSS / TAILWIND CSS / JS / REACT JS / NEXT JS 
 
