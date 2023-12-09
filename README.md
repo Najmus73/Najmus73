@@ -6,7 +6,7 @@
 I'm a Front-End Web Developer and some known with Back-End dedicated to simplifying web learning and empowering aspiring developers.
 
 <h1>Skills</h1>
-<img src='https://www.svgrepo.com/show/303205/html-5-logo.svg' height='40'> / CSS / TAILWIND CSS / JS / REACT JS / NEXT JS 
+<img src='https://www.svgrepo.com/show/303205/html-5-logo.svg' height='40'> / <img src='[https://www.svgrepo.com/show/303205/html-5-logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1461px-CSS.3.svg.png)' height='40'> / TAILWIND CSS / JS / REACT JS / NEXT JS 
 <h1>Current Status</h1>
 - 🌱 I’m currently learning NEXT JS <br/>
 - 📫 How to reach me: EMAIL OR  PHONE 
