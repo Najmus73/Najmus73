@@ -6,8 +6,12 @@
 I'm a Front-End Web Developer and some known with Back-End dedicated to simplifying web learning and empowering aspiring developers.
 
 <h1>Skills</h1>
-<a href="https://iconscout.com/3d-illustrations/html" class="text-underline font-size-sm" target="_blank">Html</a> by <a href="https://iconscout.com/contributors/iconscout" class="text-underline font-size-sm">IconScout Store</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a> 
-/ CSS / TAILWIND CSS / JS / REACT JS / NEXT JS 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,react,vite,nodejs,mongodb,express,vscode" />
+  </a>
+</p>
+
 <h1>Current Status</h1>
 - 🌱 I’m currently learning NEXT JS <br/>
 - 📫 How to reach me: EMAIL OR  PHONE 
@@ -23,6 +27,9 @@ I'm a Front-End Web Developer and some known with Back-End dedicated to simplify
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Najmus73&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Najmus73)  
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Najmus73" />
+</p>
 
 
 
