@@ -6,7 +6,8 @@
 I'm a Front-End Web Developer and some known with Back-End dedicated to simplifying web learning and empowering aspiring developers.
 
 <h1>Skills</h1>
-HTML / CSS / TAILWIND CSS / JS / REACT JS / NEXT JS 
+<a href="https://iconscout.com/3d-illustrations/html" class="text-underline font-size-sm" target="_blank">Html</a> by <a href="https://iconscout.com/contributors/iconscout" class="text-underline font-size-sm">IconScout Store</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a> 
+/ CSS / TAILWIND CSS / JS / REACT JS / NEXT JS 
 <h1>Current Status</h1>
 - 🌱 I’m currently learning NEXT JS <br/>
 - 📫 How to reach me: EMAIL OR  PHONE 
