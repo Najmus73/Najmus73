@@ -1,43 +1,92 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQEI3OeRhpjMaQ/profile-displaybackgroundimage-shrink_350_1400/0/1702125426463?e=1707350400&v=beta&t=3g3NVhBEWel-uvyty2pnV8zcld7j7-yv6hOJ0VvD5lY)
+<div align="center">
+  <img height="300" src="https://i.ibb.co/v3b6CQJ/Navy.png"  />
+</div>
 
-### Hi there 👋, Nazmus Shakib
+###
 
-
-I'm a Front-End Web Developer and some known with Back-End dedicated to simplifying web learning and empowering aspiring developers.
-
-<h1>Skills</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,js,react,vite,nodejs,mongodb,express,vscode" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/najmus-shakib-879734b7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="https://www.facebook.com/NajmusShakib2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/najmus73/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDQqPldcQVvlBBVMhnxGnxCqJfTrdktptxJZMRMXZnQzCRLhTnClgBVDsSrRFGWVLMvbjv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="najmus_shakib" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
-<h1>Current Status</h1>
-- 🌱 I’m currently learning NEXT JS <br/>
-- 📫 How to reach me: EMAIL OR  PHONE 
+###
 
-<h1>Social links</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=najmus73.najmus73&"  />
+</div>
 
+###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Najmus73)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/najmus-shakib-879734b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NajmusShakib2/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/najmus73//)
-  
+<h1 align="center">hey there 👋</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Najmus73)](https://github.com/ryo-ma/github-profile-trophy)
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="center">
+###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Najmus73)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<p align="left">I'm Shakib from Bangladesh<br><br>- 🔭 I’m working as Front-End-Web-Development<br>- 📚 I'm currently learning NEXT JS</p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Najmus73&show_icons=true" />
-</p>  
+###
 
-  
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Najmus73" />
-</p>
+<h3 align="left">🛠 Language and tools</h3>
 
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=najmus73&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=najmus73&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najmus73&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/najmus73/najmus73/output/snake.svg" alt="Snake animation" />
+
+###
 
 
