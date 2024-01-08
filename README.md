@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co/v3b6CQJ/Navy.png"  />
+  <img height="300" src="https://i.ibb.co/Wvq8Rf5/Banner.png"  />
 </div>
 
 ###
@@ -85,7 +85,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/najmus73/najmus73/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/najmus73/najmus73/output/snake.svg" alt="Loading !!!" />
 
 ###
 
