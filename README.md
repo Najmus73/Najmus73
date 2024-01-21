@@ -85,10 +85,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/najmus73/najmus73/output/snake.svg" alt="Loading !!!" />
-
-###
-
 
